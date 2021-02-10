@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1604582505 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoa.h"
+	"Fdinamica.h"
+	"Mergeordena.h"
+
+1604531557 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila\estatica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pessoa.h"
+
+1604528877 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila\pessoa.h
+
+1604610085 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila\fdinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pessoa.h"
+
+1604581611 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila\mergeordena.h
+	"pessoa.h"
+
+1604612364 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila questões\questões 1 a 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estatica.h"
+	"pessoa.h"
+	"Mergeordena.h"
+
+1604528877 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila questões\questões 1 a 6\pessoa.h
+
+1604610085 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila questões\questões 1 a 6\fdinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pessoa.h"
+
+1604611714 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila questões\questões 1 a 6\mergeordena.h
+	"pessoa.h"
+
+1604612387 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila questões\questões 1 a 6\estatica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"pessoa.h"
+

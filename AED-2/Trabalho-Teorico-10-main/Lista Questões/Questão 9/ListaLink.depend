@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1604605564 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila\listalink\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"paginas.h"
+	"FilaWeb.h"
+
+1604604501 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila\listalink\paginas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604605617 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila\listalink\filaweb.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"paginas.h"
+

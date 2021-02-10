@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1603568554 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\questao5a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1603561495 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\questao5a\letraa.c
+	"FunSTRLEN.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1603557802 c:\users\joaop\onedrive\Área de trabalho\pratico2\questao5a\funstrlen.h
+
+1603562947 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\questao5a\letrab.c
+	"FunSTRCMP.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1603561107 c:\users\joaop\onedrive\Área de trabalho\pratico2\questao5a\funstrcmp.h
+
+1603563456 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\questao5a\letrac.c
+	"FunSTRCAT.h"
+	<stdio.h>
+	<stdlib.h>
+
+1603563430 c:\users\joaop\onedrive\Área de trabalho\pratico2\questao5a\funstrcat.h
+
+1603565117 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\questao5a\letrad.c
+	"FunSTRCHR.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1603565606 c:\users\joaop\onedrive\Área de trabalho\pratico2\questao5a\funstrchr.h
+	<stdio.h>
+	<stdlib.h>
+
+1603561495 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 5\letraa.c
+	"FunSTRLEN.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1603557802 c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 5\funstrlen.h
+
+1603562947 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 5\letrab.c
+	"FunSTRCMP.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1603561107 c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 5\funstrcmp.h
+
+1603563456 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 5\letrac.c
+	"FunSTRCAT.h"
+	<stdio.h>
+	<stdlib.h>
+
+1603563430 c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 5\funstrcat.h
+
+1603657863 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 5\letrad.c
+	"FunSTRCHR.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1603656325 c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 5\funstrchr.h
+	<stdio.h>
+	<stdlib.h>
+
+1603568554 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

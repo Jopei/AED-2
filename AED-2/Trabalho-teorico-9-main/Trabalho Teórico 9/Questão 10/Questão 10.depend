@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1603818646 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 9\questão 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1603730199 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 9\questão 10\organizar_produto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

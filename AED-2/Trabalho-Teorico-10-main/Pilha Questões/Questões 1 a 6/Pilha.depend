@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1604360064 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\pilha\main.c
+	<stdio.h>
+	"estatica.h"
+
+1604359915 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\pilha\estatica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1604425195 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\pilha\main.c
+	<stdio.h>
+	"estatica.h"
+
+1604425195 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\pilha\estatica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1604510126 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\parte em pilha\pilha\main.c
+	<stdio.h>
+	"dinamica.h"
+
+1604425195 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\parte em pilha\pilha\estatica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1604510126 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\parte em pilha\pilha\dinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

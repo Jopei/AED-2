@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604452147 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\notaçaopolonesa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Polonesa.h"
+
+1604497276 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\notaçaopolonesa\polonesa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<locale.h>
+

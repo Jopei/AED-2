@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1604596401 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila\questão8fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Processo.h"
+	"Filadinamica.h"
+
+1604595623 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila\questão8fila\processo.h
+
+1604587648 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila\questão8fila\filaestatica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Processo.h"
+
+1604596528 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\fila\questão8fila\filadinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Processo.h"
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1604608682 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"pessoas.h"
+	"estatica.h"
+
+1604096210 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\pessoas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604608698 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\estatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"pessoas.h"
+
+1604279277 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\dinamica.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"pessoas.h"
+
+1604603138 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\ldupla.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"pessoas.h"
+
+1604609167 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista questões\questões\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"pessoas.h"
+	"estatica.h"
+
+1604096210 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista questões\questões\pessoas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604613501 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista questões\questões\estatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"pessoas.h"
+

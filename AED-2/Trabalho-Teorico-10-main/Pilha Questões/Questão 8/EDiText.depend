@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1604439423 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\editext\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EtPilhaEstatica.h"
+
+1604441719 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\editext\etpilhaestatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

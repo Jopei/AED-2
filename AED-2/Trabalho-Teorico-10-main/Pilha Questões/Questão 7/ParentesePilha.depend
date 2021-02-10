@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1604429062 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\parentesepilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Verifica.h"
+	<stdbool.h>
+	<locale.h>
+
+1604429123 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\lista\parentesepilha\verifica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1604429304 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\parentesepilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Verifica.h"
+	<stdbool.h>
+	<locale.h>
+
+1604442878 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\parentesepilha\verifica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1604615988 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\pilha questões\questão 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Verifica.h"
+	<stdbool.h>
+	<locale.h>
+
+1604615931 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 10\pilha questões\questão 7\verifica.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

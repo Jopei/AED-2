@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1603587414 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CauculadoraBasica.h"
+	<locale.h>
+
+1603641023 c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 7\cauculadorabasica.h
+	<locale.h>
+

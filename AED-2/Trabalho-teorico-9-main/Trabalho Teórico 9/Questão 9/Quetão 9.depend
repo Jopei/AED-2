@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1603595775 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\quetão 9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AletorioePosicao.h"
+
+1603593647 c:\users\joaop\onedrive\Área de trabalho\pratico2\quetão 9\aletorioeposição.h
+	<time.h>
+
+1603596295 c:\users\joaop\onedrive\Área de trabalho\pratico2\quetão 9\aletorioeposicao.h
+	<time.h>
+
+1603595775 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\quetão 9 concertar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AletorioePosicao.h"
+
+1603642529 c:\users\joaop\onedrive\Área de trabalho\pratico2\quetão 9 concertar\aletorioeposicao.h
+	<time.h>
+	<locale.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1603673551 source:c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 4\main.c
+	<stdio.h>
+	<time.h>
+	"PreecherAletoriosoma.h"
+
+1603673642 c:\users\joaop\onedrive\Área de trabalho\pratico2\questão 4\preecheraletoriosoma.h
+
+1603824930 source:c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 9\questão 4\main.c
+	<stdio.h>
+	<time.h>
+	"PreecherAletoriosoma.h"
+
+1603823629 c:\users\joaop\onedrive\Área de trabalho\trabalho teórico 9\questão 4\preecheraletoriosoma.h
+
